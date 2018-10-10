@@ -1,0 +1,12 @@
+//option java_outer_classname = "Message";
+option java_package = "com.protobuf";
+
+package dough.protocol;
+
+message TestData{
+   optional int32  age = 1;
+   optional string name = 2;
+   optional int32  id = 3;
+   
+}
+
