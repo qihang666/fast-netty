@@ -16,7 +16,7 @@ public class DemoServer extends TcpServer {
 }
     </code>
 </pre>
-# client
+# Client
 <pre>
 <code>
 public class DemoClient extends TcpClient {
